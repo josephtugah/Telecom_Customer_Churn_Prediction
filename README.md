@@ -55,7 +55,7 @@ To use this project for predicting customer churn, follow these simple steps:
 
 1. **Clone the Repository**: Start by cloning this GitHub repository to your local machine.
 
-2. **Install Dependencies**: Make sure you have the necessary Python libraries installed. You can find the required packages in the `requirements.txt` file.
+2. **Install Dependencies**: Make sure you have the necessary Python libraries installed. 
 
 3. **Run the Jupyter Notebook**: Open and run the Jupyter Notebook provided in the repository. Follow the step-by-step instructions to load your telecom data and make predictions.
 
